@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice" role="img" aria-hidden="true">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#04142d"/><stop offset="1" stop-color="#0b2f5e"/></linearGradient>
+<radialGradient id="glow" cx="0.75" cy="0.3" r="0.6"><stop offset="0" stop-color="#18a2f8" stop-opacity=".45"/><stop offset="1" stop-color="#18a2f8" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#fff" stroke-opacity=".06"/></pattern>
+</defs>
+<rect width="1200" height="800" fill="url(#bg)"/><rect width="1200" height="800" fill="url(#grid)"/><rect width="1200" height="800" fill="url(#glow)"/>
+<path d="M600 130 L840 220 V420 C840 560 740 650 600 700 C460 650 360 560 360 420 V220 Z" fill="#0877df" fill-opacity=".25" stroke="#4bb4ff" stroke-width="5" stroke-linejoin="round"/>
+<path d="M530 410 l50 50 l110 -120" fill="none" stroke="#4bb4ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:14"/>
+<g fill="none" stroke="#4bb4ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".5"><line x1="120" y1="300" x2="340" y2="300"/><line x1="120" y1="420" x2="340" y2="420"/><line x1="120" y1="540" x2="340" y2="540"/><line x1="860" y1="300" x2="1080" y2="300"/><line x1="860" y1="420" x2="1080" y2="420"/><line x1="860" y1="540" x2="1080" y2="540"/></g>
+</svg>
